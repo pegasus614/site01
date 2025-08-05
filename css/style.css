@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(17, 17, 17);
+}
+.banner{
+    width: 18%;
+    height: 140px;
+    background-color: rgb(10, 10, 10);
+    margin-top: 40px;
+    margin-left: 40%;
+    text-align: center;
+    padding-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 0 0 12px rgb(108, 177, 44);
+    color: white;
+}
+.banner-1{
+    width: 18%;
+    height: 140px;
+    background-color: rgb(14, 13, 13);
+    margin-top: 14px;
+    margin-left: 40%;
+    text-align: center;
+    padding-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 0 0 12px rgb(108, 177, 44);
+    color: white;
+}
+.banner-2{
+    width: 18%;
+    height: 140px;
+    background-color: rgb(8, 8, 8);
+    margin-top:14px ;
+    margin-left: 40%;
+    text-align: center;
+    padding-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 0 0 12px rgb(108, 177, 44);
+    color: white;
+}
+.banner:hover{
+    color: green;
+}
+.banner-1:hover{
+    color: green;
+}
+.banner-2:hover{
+    color: green;
+}
